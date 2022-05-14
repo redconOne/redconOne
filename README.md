@@ -1,8 +1,8 @@
 
 
-### Hey there, I'm Ming Lee!  
+###
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 50%" />
+   Hey there, I'm Ming Lee!  
 </div>  
   
 
