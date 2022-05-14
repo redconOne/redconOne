@@ -37,7 +37,7 @@
 </a>  
   <br>
   <p align="center">
-    <a href="https://www.codewars.com/users/MingLeeNg" target="_blank"><img src="https://www.codewars.com/users/MingLeeNg/badges/small"></a>
+    <a href="https://www.codewars.com/users/MingLeeNg" target="_blank"><img src="https://www.codewars.com/users/MingLeeNg/badges/medium"></a>
   </p>
 </div>  
   
