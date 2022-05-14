@@ -35,6 +35,10 @@
 <a href="https://linkedin.com/in/MingLeeNg" target="_blank">
 <img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=success&style=plastic&logo=linkedin&logo-color=white" height="25px" />
 </a>  
+  <br>
+  <p align="center">
+    <a href="https://www.codewars.com/users/MingLeeNg" target="_blank"><img src="https://www.codewars.com/users/MingLeeNg/badges/small"></a>
+  </p>
 </div>  
   
 
