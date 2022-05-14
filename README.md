@@ -27,7 +27,7 @@
   <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white" height="25px" />
   </a>
 <a href="https://github.com/redconOne" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/static/v1?label=&message=Github&color=success&style=plastic&logo=linkedin&logo-color=white" height="25px" />
 </a>
 <a href="https://twitter.com/MingLeeNg1" target="_blank">
  <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=informational&style=plastic&logo=twitter&logo-color=white" height="25px" />
