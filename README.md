@@ -23,14 +23,17 @@
 
 ## Connect with me  
 <div align="center">
+ <a href="http://minglee.me" target="_blank">
+  <img src="https://img.shields.io/static/v1?label=&message=Website&color=informational&style=plastic&logo=javascript&logo-color=white" height="25px" />
+  </a>
 <a href="https://github.com/redconOne" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://twitter.com/MingLeeNg1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+ <img src="https://img.shields.io/static/v1?label=&message=Twitter&color=informational&style=plastic&logo=twitter&logo-color=white" height="25px" />
 </a>
 <a href="https://linkedin.com/in/MingLeeNg" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+<img src="https://img.shields.io/static/v1?label=&message=LinkedIn&color=success&style=plastic&logo=linkedin&logo-color=white" height="25px" />
 </a>  
 </div>  
   
