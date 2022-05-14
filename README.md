@@ -1,12 +1,9 @@
 
 
 ###
-<div align="center">
-   Hey there, I'm Ming Lee!  
-</div>  
   
 
-### <div align="center">I'm a Software Engineer from El Paso, Texas and a U.S. Army Veteran! I am proficient in HTML, CSS, JavaScript, Node.js, React, and a few other languages. My two greatest strengths are communication and problem solving, which allow me to understand the problem that needs tackling and provide a  solution in-line with the company's brand and vision. I have experience working with small-medium sized businesses and I do freelance web development as well! Feel free to reach out at any time!</div>  
+### <h3 align="center">Hi there! I'm Ming Lee, a Software Engineer from El Paso, Texas and a U.S. Army Veteran! I am proficient in HTML, CSS, JavaScript, Node.js, React, and a few other languages. My two greatest strengths are communication and problem solving, which allow me to understand the problem that needs tackling and provide effecient and effective solutions. I have experience working with small-medium sized businesses and I do freelance web development as well! Feel free to reach out at any time!</h3>  
   
 
 - 🔭 I’m currently working on a massive pet project for the cataloging and rating of cigars!  
