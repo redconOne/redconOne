@@ -83,7 +83,7 @@
 
 
 ## Github Stats  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=redconOne&theme=vue-dark" alt="redconOne" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=redconone&show_icons=true&theme=dark&locale=en" alt="redconOne" /></p>
 
   
 
