@@ -80,10 +80,6 @@
 
 <br/>  
 
-
-## Github Stats  
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=redconone&show_icons=true&theme=dark&locale=en" alt="redconOne" /></p>
-
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redconOne&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
 
 <br/>  
