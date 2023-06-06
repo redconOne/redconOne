@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on a massive pet project for the cataloging and rating of cigars!  
   
 
-- 🌱 I’m currently learning Kotlin!  
+- 🌱 I’m currently learning Rust!  
   
 
 - ❓ Check out my portfolio at http://minglee.me  
