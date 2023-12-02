@@ -82,8 +82,14 @@
 
 <br/>  
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=redconOne&theme=tokyonight&date_format=M%20j%5B%2C%20Y%5D&background=DD272700)](https://git.io/streak-stats)
-
+<div>
+<a href="https://github-readme-stats.vercel.app/api?username=redconOne&theme=tokyonight">
+  <img  align="left" src="https://github-readme-stats.vercel.app/api?username=redconOne&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=redconOne&hide=php&theme=tokyonight">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redconOne&hide=php&theme=tokyonight" />
+</a>
+</div>
 <br/>  
 
 <div align="center"></div>
