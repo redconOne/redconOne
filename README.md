@@ -1,7 +1,12 @@
 <!-- <img src="https://github.com/redconOne/portfolio/blob/master/src/assets/githubBannerActual.png">  -->
-### <h3 align="center">Hi there! I'm Ming Lee, a Software Engineer from El Paso, Texas and a U.S. Army Veteran! I am highly proficient in JavaScript/TypeScript ecosystems, as well as some Python and Rust. My two greatest strengths are communication and problem solving, which allow me to understand the problem that needs tackling and provide effecient and effective solutions. Feel free to reach out at any time!</h3>  
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=redconone)
-![followers](https://img.shields.io/github/followers/redconone?label=Followers&logo=Github)
+### 
+<h3 align="center">Hi there! I'm Ming Lee, a Software Engineer from El Paso, Texas and a U.S. Army Veteran! I am highly proficient in JavaScript/TypeScript ecosystems, as well as some Python and Rust. My two greatest strengths are communication and problem solving, which allow me to understand the problem that needs tackling and provide effecient and effective solutions. Feel free to reach out at any time!</h3>  
+  
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fredconone&countColor=%23263759&style=flat&labelStyle=lower)
+  ![GitHub followers](https://img.shields.io/github/followers/redconone?style=flat)
+  
+</p>
+
 </span>
 
 - 🚀 Currently working on personal projects and deepening my understanding of Rust!
