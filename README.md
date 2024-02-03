@@ -95,8 +95,8 @@
 <a href="https://github-readme-stats.vercel.app/api?username=redconOne&theme=radical&show_icons=true&rank_icon=github">
   <img  align="left" src="https://github-readme-stats.vercel.app/api?username=redconOne&theme=radical&show_icons=true&rank_icon=github" />
 </a>
-<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=redconOne&hide=php&theme=tokyonight">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redconOne&hide=php&theme=tokyonight" />
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=redconOne&hide=php&theme=radical">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=redconOne&hide=php&theme=radical" />
 </a>
 </div>
 <br/>  
