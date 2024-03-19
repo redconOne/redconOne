@@ -9,7 +9,7 @@
 
 </span>
 
-- 🚀 Currently working on personal projects and deepening my understanding of Rust!
+- 🚀 Currently working on personal projects and deepening my understanding of Go!
 - ❓ Check out my portfolio at http://minglee.me   
 - ⚡ Fun fact: I love wildlife and the outdoors, especially insects!   
 <br/>  
